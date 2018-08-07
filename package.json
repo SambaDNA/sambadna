@@ -1,6 +1,6 @@
 {
   "name": "sambadna",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^1.4.0",
@@ -31,7 +31,7 @@
     "redux": "^3.7.2",
     "redux-raven-middleware": "^1.2.0",
     "redux-thunk": "^2.3.0",
-    "sambadna-core": "^1.0.1",
+    "sambadna-core": "^1.0.2",
     "shortid": "^2.2.12",
     "typeface-roboto": "0.0.45",
     "y-array": "^11.0.0-5",
