@@ -1,4 +1,4 @@
-# SambaDNA 3.0
+# SambaDNA
 
 SambaDNA is a POS application created to demonstrate new ideas to solve operational problems on retails, restaurants or similar businesses. Cloud POS systems is a big step forward on POS industry. However most Cloud POS Applications needs good wireless coverage and requires Internet connection to be able to operate. Even though they supports offline usage, few limited operations avaliable while working offline. Permanent server connection requirement leads to serious operational issues for extremely busy locations like tills, bars or kitchens. SambaDNA built with distributed networking principles to allow smooth communication between terminals and server. Same principles also works between servers for connecting branches of franchise business.
 
@@ -8,7 +8,7 @@ Visit https://github.com/emreeren/pmpos3/wiki to have more information about the
 
 ## Demo
 
-https://emreeren.github.io/pmpos3
+https://sambadna.github.io/
 
 On first run you need to make few configurations to enable features. You can read Demo Tutorials to have an idea about how SambaDNA works.
 

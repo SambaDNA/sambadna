@@ -46,7 +46,7 @@
     "test": "react-scripts-ts test --env=jsdom",
     "eject": "react-scripts-ts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -b master -r https://github.com/sambadna/sambadna.github.io.git"
   },
   "devDependencies": {
     "@types/classnames": "^2.2.6",
