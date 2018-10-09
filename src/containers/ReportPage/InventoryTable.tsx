@@ -31,7 +31,7 @@ export class InventoryTable extends React.Component<Props, IState> {
     }
 
     public render() {
-        const firstTag = this.props.tags.first();
+        const firstTag = this.props.tags.first(undefined);
         if (!firstTag
             // || !firstTag.tag.value.toLowerCase().includes(this.props.searchValue.toLowerCase())
             || firstTag.tag.quantity === 0) {
